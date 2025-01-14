@@ -6,9 +6,11 @@
 
 ```
 git clone https://github.com/alirezanezami1/spotify-clone.git
-
+```
+```
 npm i
-
+```
+```
 npm run dev
 ```
 
